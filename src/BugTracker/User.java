@@ -1,14 +1,17 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+SI-pass Java II
  */
 package BugTracker;
+
+import BugTracker.Enum.UserDesignation;
 
 /**
  *
  * @author Caroline
  */
 public class User {
-   
+   private String firstName;
+   private String lastName;
+   private UserDesignation designation;
+
 }

@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package BugTracker;
+package BugTracker.Enum;
 
 /**
  *
  * @author Caroline
  */
-public class GUI {
-   
+public enum BugPriority {
+   High, Medium, Low
 }

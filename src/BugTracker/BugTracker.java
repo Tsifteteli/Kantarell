@@ -11,6 +11,5 @@ package BugTracker;
  */
 public class BugTracker {
    
-private Priority priority;
 
 }
